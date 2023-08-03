@@ -185,32 +185,30 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163845.png)
+![Info](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163845.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163906.png)
+![Finace](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163906.png)
 ## Sales View
 
-![Sales.gif](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163938.png)
+![Sales(https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163938.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163957.png)
+![Marketing](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20163957.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20164015.png)
+![Supply chain](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20164015.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20164029.png)
+![Executive](https://github.com/swarupmore/Nexus-Industries-Business-Insight-360/blob/main/Resources/Screenshot%202023-06-28%20164029.png)
 
-## Products
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
 
-you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+you can find the full report file here : [Report](https://github.com/Naveen-S6/Busin)
 
 
 ## Project Outcome
